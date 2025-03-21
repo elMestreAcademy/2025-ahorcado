@@ -1,6 +1,6 @@
 # **Proyecto: Juego del Ahorcado - Desarrollando Funcionalidad Incremental**
 
-#### **Objetivo del proyecto:**
+## **Objetivo del proyecto:**
 
 Crear un juego de **Ahorcado** que permita a los jugadores adivinar palabras ocultas, comenzando con una versión básica y añadiendo funcionalidad incremental hasta llegar a una versión más completa que incluya gráficos ASCII de los diferentes estados del juego.
 
@@ -36,7 +36,7 @@ Crear un juego de **Ahorcado** que permita a los jugadores adivinar palabras ocu
 2. **Requerimientos:**
    - Implementar un contador de intentos restantes.
    - Mostrar un mensaje indicando si el jugador ha ganado o perdido al final del juego.
-   
+
 ---
 
 ### **Etapa 3: Agregar Dibujos ASCII para los Estados del Ahorcado**
@@ -70,9 +70,6 @@ Crear un juego de **Ahorcado** que permita a los jugadores adivinar palabras ocu
 
 ---
 
-
-
-
 ### **Evaluación:**
 
 - El proyecto se evaluará con base en:
@@ -84,6 +81,7 @@ Crear un juego de **Ahorcado** que permita a los jugadores adivinar palabras ocu
 ---
 
 ### **Consejos para el desarrollo:**
+
 - Comienza con un enfoque simple, asegurándote de que cada parte funcione correctamente antes de pasar a la siguiente.
 - Usa funciones para organizar tu código de forma modular.
 - Revisa cómo se muestra el estado del juego después de cada error para asegurarte de que los dibujos sean correctos.
@@ -91,4 +89,3 @@ Crear un juego de **Ahorcado** que permita a los jugadores adivinar palabras ocu
 ---
 
 **¡Diviértete programando y mejora el juego poco a poco!**
-

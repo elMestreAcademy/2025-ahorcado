@@ -1,3 +1,5 @@
+# Frases
+
 - La paciencia es un árbol de raíces amargas, pero de frutos muy dulces.
 - La vida es un sueño, y los sueños, sueños son.
 - El sol brilla más fuerte cuando se oculta detrás de las nubes.
